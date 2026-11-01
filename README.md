@@ -102,6 +102,11 @@ That places the feedpoint only **17.5 cm from the bottom corner** - location cho
 
 The **tuning jumper length** in the described design was approximately **1 m**.
 
+There was no need to use matching transformer, achieved SWR level for tunnned antenna can be seen below:
+<p align="center">
+<img src="./img/30m_delta_loop_swr.jpg" width="500" height="400"/>
+</p>
+
 ## Diagram
 
 ![Delta-loop antenna dimensions with feedpoint on the 7.4 m leg](./img/delta_loop_with_base_jumper_dimensions.png)
@@ -113,7 +118,8 @@ The **tuning jumper length** in the described design was approximately **1 m**.
 
 ## Discussion of Performance
 
-
+During two months of operating this antenna (September-October, 2026) the following QSOs were made:
+![QSO Map - 30m Delta-Loop Antenna:](./img/delta_30m_performance.png)
 
 ## References
 [1] Practical Antennas, Theory of Full Wave Loops, https://practicalantennas.com/theory/loop/full-wave/
